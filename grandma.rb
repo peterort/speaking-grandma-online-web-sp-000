@@ -3,7 +3,7 @@ def speak_to_grandma(phrase)
 # Whatever you say to grandma, she should respond with
   if phrase.upcase == "I LOVE YOU GRANDMA!"
 # HUH?! SPEAK UP, SONNY!
-    puts "I LOVE YOU TOO PUMPKIN!"
+    print "I LOVE YOU TOO PUMPKIN!"
 # unless you shout it (type in all capitals).
 
 # If you shout, she can hear you (or at least she thinks so)
