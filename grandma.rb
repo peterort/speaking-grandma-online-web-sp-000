@@ -7,7 +7,7 @@ def speak_to_grandma(phrase)
 # unless you shout it (type in all capitals).
 if phrase == phrase.upcase && phrase != "I LOVE YOU GRANDMA!"
   puts "NO, NOT SINCE 1938!"
-  
+
 # If you shout, she can hear you (or at least she thinks so)
 # and yells back
 
