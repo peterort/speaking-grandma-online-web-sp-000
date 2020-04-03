@@ -8,7 +8,8 @@ def speak_to_grandma(phrase)
 
 # If you shout, she can hear you (or at least she thinks so)
 # and yells back
-
+  else
+    puts "HUH?! SPEAK UP, SONNY!"
 # NO, NOT SINCE 1938!
 
   end
